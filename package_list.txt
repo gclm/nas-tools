@@ -16,4 +16,3 @@ wget
 shadow
 sudo
 vim
-telnet
