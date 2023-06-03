@@ -1,9 +1,6 @@
 ![logo-blue](https://user-images.githubusercontent.com/51039935/197520391-f35db354-6071-4c12-86ea-fc450f04bc85.png)
 # NAS媒体库管理工具
 
-[![GitHub stars](https://img.shields.io/github/stars/gclm/nas-tools?style=plastic)](https://github.com/gclm/nas-tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/gclm/nas-tools?style=plastic)](https://github.com/gclm/nas-tools/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/gclm/nas-tools?style=plastic)](https://github.com/gclm/nas-tools/issues)
 [![GitHub license](https://img.shields.io/github/license/gclm/nas-tools?style=plastic)](https://github.com/gclm/nas-tools/blob/master/LICENSE.md)
 [![Docker pulls](https://img.shields.io/docker/pulls/gclm/nas-tools?style=plastic)](https://hub.docker.com/r/gclm/nas-tools)
 [![Platform](https://img.shields.io/badge/platform-amd64/arm64-pink?style=plastic)](https://hub.docker.com/r/gclm/nas-tools)
